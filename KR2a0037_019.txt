@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定遼金元三史國語解
-#+DATE: 2019-03-29 20:49:06.565830
+#+DATE: 2019-03-29 20:49:06.967087
 #+PROPERTY: ID KR2a0037
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 19
 <pb:KR2a0037_WYG_019-1a>¶
 　　欽定四庫全書¶
@@ -169,7 +169,7 @@
 ¶
 ¶
 ¶
-　　阿里布　(呈&KR0589;也卷三作阿魯補又作阿盧補卷四作阿離補卷六作阿里白又作阿里補卷九十¶
+　　阿里布　(呈遞也卷三作阿魯補又作阿盧補卷四作阿離補卷六作阿里白又作阿里補卷九十¶
 四作阿里不卷一百一作阿魯不併改)¶
 ¶
 <pb:KR2a0037_WYG_019-6a>¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定遼金元三史國語解
-#+DATE: 2019-03-29 20:49:06.628287
+#+DATE: 2019-03-29 20:49:07.048740
 #+PROPERTY: ID KR2a0037
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR2a0037_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -788,7 +788,7 @@
 <pb:KR2a0037_WYG_026-24b>¶
 ¶
 ¶
-　　色辰　(聰眀也卷十四作闍𨞬驛名)¶
+　　色辰　(聰眀也卷十四作闍鄽驛名)¶
 ¶
 ¶
 ¶

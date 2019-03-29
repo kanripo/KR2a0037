@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定遼金元三史國語解
-#+DATE: 2019-03-29 20:49:06.711037
+#+DATE: 2019-03-29 20:49:07.152011
 #+PROPERTY: ID KR2a0037
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 36
 <pb:KR2a0037_WYG_036-1a>¶
 　　欽定四庫全書¶
@@ -528,7 +528,7 @@
 ¶
 ¶
 ¶
-　　實喇濟蘇　(實喇黄色也濟蘇顔色也卷二十一作昔而吉思卷一百作&KR1072;兒吉思卷一百二十¶
+　　實喇濟蘇　(實喇黄色也濟蘇顔色也卷二十一作昔而吉思卷一百作撤兒吉思卷一百二十¶
 <pb:KR2a0037_WYG_036-17a>¶
 作昔里吉思卷一百三十二作昔兒吉思卷一百四十三作錫里吉思併改)¶
 ¶

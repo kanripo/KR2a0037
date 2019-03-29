@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 欽定遼金元三史國語解
-#+DATE: 2019-03-29 20:49:06.531668
+#+DATE: 2019-03-29 20:49:06.930662
 #+PROPERTY: ID KR2a0037
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 13
 <pb:KR2a0037_WYG_013-1a>¶
 　　欽定四庫全書¶
@@ -226,7 +226,7 @@
 <pb:KR2a0037_WYG_013-7b>¶
 ¶
 ¶
-　　斡琿　(&KR0424;也卷二作斡忽路名)¶
+　　斡琿　(臭也卷二作斡忽路名)¶
 ¶
 ¶
 ¶
